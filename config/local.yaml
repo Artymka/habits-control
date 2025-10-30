@@ -1,9 +1,9 @@
 postgres:
-  username:
-  password:
-  host:
-  port:
-  database:
+  username: habits_control
+  password: root
+  host: localhost
+  port: 5444
+  database: habits_control
 
 server:
   address: 0.0.0.0:8082
